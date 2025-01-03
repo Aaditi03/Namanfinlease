@@ -68,7 +68,7 @@ function App() {
         <p>
           <strong>Email:</strong> <a href="mailto:info.namanfinlease@gmail.com">info.namanfinlease@gmail.com</a>
         </p>
-        <p>
+        <p>:""
           <strong>Mobile:</strong> <a href="tel:+918073605468">8073605468</a>
         </p>
       </div>
